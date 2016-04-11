@@ -1,2 +1,2 @@
 # gh-tests
-GitHub Tests
+GitHub Tests is a (personal) repository for testing GitHub options.
